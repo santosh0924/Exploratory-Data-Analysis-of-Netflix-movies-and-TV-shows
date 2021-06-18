@@ -7,4 +7,10 @@ The number of movies has decreased by over 2,000 titles since 2000 while the num
 
 Some important variables will be analyzed to perform exploratory data analysis and also predict the number of Movies and TV shows that will be added in 2020.
 
+### Contents
+1. Statistical questions
+2. Analyzing important variables
+3. Exploratory Data Analysis (EDA) outcome
+4. Prediction
+
 #### Data source - https://www.kaggle.com/shivamb/netflix-shows
